@@ -1,0 +1,1064 @@
+LOAN APPLICATION FORM
+Fields marked in "RED" are mandatory
+
+BANK USE SECTION
+Sourcing Channel
+
+Branch
+
+DST
+
+DSA
+
+Source 1
+
+PBK
+
+Web
+
+Referral Sales
+
+Source 2
+
+Branch Code
+
+Other Channel (Specify)
+
+Source 3
+
+LTS/CRMN No.
+
+Source 4
+
+Sales Promo Code
+
+SM Emp Code
+
+SE Code
+
+DSA/DDSA Name
+
+ASM Emp Code
+
+TSE Code
+
+DSA /DDSA Vendor Code
+
+RSM Emp Code
+
+TL Code
+
+LG Code
+
+Dealer SE Code
+
+Dealer / DSA Stamp / Signature
+
+CUSTOMER SECTION (to be filled by the Customer in CAPITAL LETTERS)
+I wish to apply for below ticked () loan and request you to process the loan application as per details provided in the form Application date D
+Personal
+Business
+Large Ticket Business
+Self Employed Professional
+App1
+App 2
+App 3
+Existing
+Customer
+Cust Id
+Cust Id
+Cust Id
+Savings/ Current
+A/C no.
+
+D M M Y
+
+Y
+
+Loan no.
+
+A. PERSONAL DETAILS (Leave space between two words)
+Mr.
+
+Title
+
+Ms.
+
+M/S.
+
+Applicant
+
+Others __________
+
+Co-Applicant
+
+Guarantor
+
+PAN No.
+
+Applicant Name
+
+Father's/
+Husband's Name
+Date of Birth/
+Incorporation D
+Educational Details
+
+D M M Y
+Undergraduate
+
+Y
+
+Y
+
+Gender M
+
+Y
+
+Graduate
+
+Single
+
+Status
+
+F
+
+Married
+
+No. of Dependents
+
+Others _________ Religion ____________
+
+Post Graduate & above
+
+SC
+OBC
+
+ST
+Other________
+
+Present Address
+(Residence)
+
+Landmark
+City
+
+PIN Code
+
+State
+
+Country
+
+Tel (R)
+
+S
+
+e-mail ID
+
+I
+
+T
+
+D
+
+N
+
+Present Address is
+
+C
+
+A
+
+Owned
+
+P
+
+L
+
+A
+
+N
+
+I
+
+T
+
+A
+
+Parental
+
+D
+
+L
+
+L
+
+I
+
+N
+
+E
+
+L
+
+E
+
+T
+
+T
+
+Y M M
+Y M M
+
+Aadhar Card No.
+Mobile no. 91
+
+Company provided
+
+Years at current city Y
+Years at current residence Y
+
+E
+
+R
+
+S
+
+Fax No.
+O N
+
+L
+
+Y
+
+Rented (Monthly Rent in r ________________)
+
+Tick if permanent address is same as above
+
+Permanent
+Address
+(Residence / Regd
+Office)
+
+Landmark
+City
+
+PIN Code
+
+State
+Tel (R /O)
+
+Country
+S
+
+T
+
+D
+
+-
+
+L
+
+A
+
+N
+
+D
+
+L
+
+I
+
+N
+
+Voter ID Card No.
+
+E
+
+Mobile no. 91
+
+B. OCCUPATIONAL DETAILS
+Occupation
+If self employed professional
+If self employed Type of company
+businessman /
+Constitution Nature of business
+Type of company
+If Salaried
+Type of industry
+
+Salaried
+
+Self employed
+
+Self employed professional
+
+Retired
+
+Doctor
+
+CA / CS
+
+Consultant
+
+Architect
+
+Other___________
+
+Pvt. Ltd.
+
+Partnership
+
+Proprietor
+
+Public Ltd.
+
+Ltd. liability co.
+
+Manufacturer
+
+Agriculturist
+
+Service Provider
+
+Trader/Distributor
+
+Pvt ltd.
+
+Partnership
+
+Proprietor
+
+Public Ltd.
+
+Retailers
+
+Automobiles
+
+Agriculture based
+
+Banking
+
+BPO
+
+Real estate
+
+Consumer Durables
+
+FMCG
+
+NBFC
+
+Employer / Business Details Designaton:_________________ Exp in Current Job/Business
+
+Student
+
+Other___________
+
+Comm. Agent
+
+Retailers
+
+Other___________
+
+Govt.
+
+MNC
+
+Other___________
+
+Capital goods
+
+Telecom
+
+IT
+
+Retail
+
+Marketing / Adv.
+
+Pharma
+
+Media
+
+Other___________
+
+Months
+
+Total Exp in Job/Business
+
+Yrs
+
+Housewife
+
+Other___________
+
+PSU
+
+Yrs
+
+Months
+
+Company /
+Employers Name
+
+Company /
+Employers
+Address
+
+City
+
+PIN Code
+
+State
+
+Country
+
+Tel (O)
+
+S
+
+T
+
+Official e-mail ID
+
+I
+
+N
+
+D
+
+C
+
+A
+
+P
+
+L
+
+A
+
+N
+
+D
+
+I
+
+T
+
+A
+
+L
+
+L
+
+I
+
+N
+
+E
+
+L
+
+E
+
+T
+
+T
+
+E
+
+E
+
+X
+
+R
+
+S
+
+N
+
+T
+O N
+
+Preferred Mailing Address
+
+L
+
+Y
+
+Residence
+
+Office
+
+Page 1
+
+Landmark
+
+Proprietor / Partner / Directors Details (For Partnership / Private Ltd. / Public Ltd. Co. Only)
+Name
+
+PAN no.
+
+Contact details
+
+Date of birth
+
+Education background Profit sharing/stakeholder %
+
+Total experience
+
+C. INCOME AND BANKING DETAILS
+Monthly salary R
+
+U
+
+P
+
+E
+
+E
+
+S
+
+A/C no.
+
+Annual turnover R
+
+U
+
+P
+
+E
+
+E
+
+S
+
+Bank name
+
+Net profit R
+
+U
+
+P
+
+E
+
+E
+
+S
+
+Branch
+
+Other income R
+
+U
+
+P
+
+E
+
+E
+
+S
+
+Cust ID
+
+Other income
+source
+
+Rental
+
+Agricultural
+
+Existing Loan Details
+1) Bank / Co. name ___________________________
+____________ Loan type ______________________
+Amount (`)_________ EMI (`
+I ) __________________
+Tenure _____________ Start date _______________
+Loan a/c no. ________________________________
+
+Opened in Y Y Y Y
+
+2) Bank / Co. name ___________________________
+____________ Loan type ______________________
+Amount (`) _________ EMI (`i) _______________
+Tenure _____________ Start date _______________
+Loan a/c no. ________________________________
+
+Account type
+
+Other ________________
+Interested in opening HDFC Bank Account
+Yes
+No
+
+Credit card no.
+Issuing Bank
+
+D. LOAN DETAILS - CUM - KEY FACT STATEMENT INCLUDING SCHEDULE OF CHARGES
+Purpose of loan
+
+Home renovation
+
+Marriage
+
+Travel
+
+Loan Amount (`)
+
+Education
+
+Business expansion
+
+Transportation of
+Agri Produce
+
+Agriculture/Farming
+
+Loan Tenure
+Months
+Scheme________________
+
+No. of Advance EMI
+
+Other _____________
+
+EMI (`)
+
+1) Stamp Duty: At actual as per applicable law. 2) Interest rate of (subject to changes as per Terms and
+Conditions/ Agreement) _________% p.a. (monthly reducing). 3) Processing Charges of Rs. ` ____________.
+3(a). Services tax on PF _______%. 4) Cheque/SI/ECS return charges (without prejudice to the civil and
+criminal rights and remedies of the Bank for the dishonor) : `r618/- Per instance 5) Default Interest / Late
+payment charges : 2% per month from unpaid EMI 6) CIBIL Report Copy Charges: ` 50 per copy 7) Legal,
+repossession and Incidental Charges: At actual 8) Duplicate Amortization/ Repayment Schedule: ` 200/9) Cheque/SI/ECS swapping Charges : ` 500/- 10) Details of Security _______ 11) Taxes at Actuals,
+applicable presently or in future. 12) Date on which annual Outstanding balance statement will be issued: 31st
+May 13) Loan Cancellation Charges: NIL. Interest would be charged for the interim period between date of
+disbursement and date of loan cancellation.
+Note: Visit http://www.hdfcbank.com for detailed fees and charges under the respective loan product.
+Changes in charges from time to time are updated on bank’s website.
+Personal / Business Loan
+Self Employed
+Salaried
+
+Type of Loan
+Due date of EMI
+Prepayment not
+allowed up to
+payment of
+
+4th / 7th
+
+4th
+
+12 EMI
+
+06 EMI
+
+07-24 Months of EMI Repayment- 4%
+Prepayment Charges 12-24 Months of EMI Repayment- 4%
+[on Principal
+25 to 36 Months of EMI Repayment- 3% 25 to 36 Months of EMI Repayment- 3%
+Outstanding]
+>36 Months of EMI Repayment- 2%
+>36 Months of EMI Repayment- 2%
+Applicable Service Tax will be charged on foreclosure charges
+E. ADDITIONAL DETAILS
+Vehicle Owned : Manufacturer : _______________________________ Model :________________________
+Other Items :
+Wish to Apply for :
+
+Bought in Yr. Y
+
+Y
+
+Y
+
+Y
+
+Financed Y
+
+LCD / LED
+
+Microwave
+
+Home theatre
+
+Washing machine
+
+Modular Kitchen
+
+Smartphone
+
+AC
+
+Insurance
+
+Mutual fund
+
+Credit card
+
+Savings / Current a/c
+
+FD/RD
+
+Advisory/Treasury
+
+N
+
+Laptop / Tablet
+Loan ______________
+
+Page 2
+
+PERSONAL REFERENCE (Name & address of reference living in the same city)
+1) Name____________________________________________________________________
+
+2) Name____________________________________________________________________
+
+Relationship with applicant ____________________________________________________
+
+Relationship with applicant ____________________________________________________
+
+Residential address _________________________________________________________
+
+Residential address _________________________________________________________
+
+__________________________________City______________State__________________
+
+__________________________________City______________State__________________
+
+PIN ______________Mobile no.______________________ Landline no._______________
+
+PIN ______________Mobile no.______________________ Landline no._______________
+
+Relationship with Applicant is a director of any Bank or is a Firm in which any director is interested as partner / guarantor or is a relative of directors of
+Other bank
+other banks or is a firm in which relatives of directors are interested as partner or director.
+Relationship with
+Applicant is a Director / Sr. Officer / relative of director or Sr. Officer of the Bank.
+Financing bank
+
+Nature of Relationship:
+__________________________________
+
+(Important : If applicant belongs to any of the below category, pls tick the box)
+
+F. PRIORITY SECTOR CATEGORY
+Direct Agri
+Land (acres)
+
+(Bank Copy)
+
+(Agriculturist / Farmer / Agri allied activities like, dairy farming, poultry farming, fishery, bee-keeping etc)
+3 to 5
+>5 to 10
+>10 to 15
+> 15 Specify (acres):____________ Location:_________________________________ Pin Code:______________
+<3
+
+Indirect Agri : Service units like trader / dealer in fertilizers / seeds / pesticides / cattle feed / poultry feed / agri equipment or machinery, dealer of tractors or contracting tractors / borewells etc.
+Manufacturing enterprises
+
+Manufacturing unit with investment in plant & machinery upto ` 5 Lakh
+Manufacturing unit with investment in plant & machinery > ` 25 Lakh to ` 5 Cr
+
+Manufacturing unit with investment in plant & machinery > ` 5 Lakh to ` 25 Lakh
+Value of investment (i)______________ CC limit(a) ____________
+
+Service enterprise : (Professional / Non
+
+Service unit with investment in equipment upto ` 2 Lakh
+Service unit with investment in equipment > ` 10 Lakh to ` 2 Cr
+
+Service unit with investment in equipment > ` 2 Lakh to ` 10 Lakh
+Value of investment (i)____________________________________
+
+Professional / SRTO / Trade / Retail Trade)
+
+Khadi & village industries (KVI sector)
+Declaration: I/we hereby declare/confirm that the vehicle purchased/ to be purchased / loan availed / to be availed by me/us shall be used
+For the purpose of Agriculture and/or assist the transport of agriculture input and farm product.
+For the purpose of Business : I / We are aware that it is on the faith of this representation, declaration and confirmation that you have agreed to consider my loan application for financial assistance under the category of
+Priority sector advances. I / We shall indemnify the bank to make the loss of good in the event of any loss or damage that may arise on account of false / incorrect declaration by me / us.
+
+G. DOCUMENTS SUBMITTED
+I / we confirm having submitted the following self attested documents (ticked below) along with this loan application form to the Bank representative
+Photograph (signed across)
+Proof of Identity
+Proof of residence
+Latest 2 salary slips
+3/6 months bank statement
+______Post Dated Cheques
+Proof of continuity of current job
+Proof of office
+Proof of qualification
+Loan Agreement
+Signature Verification
+ECS/SI mandate
+______Security Post-dated cheques
+Proof of turnover (latest sales/services tax returns)
+Last 2 yr ITR with computed income
+Loan a/c statement for balance transfer / balance transfer & top up / repayment / retention cases
+H. MOST IMPORTANT TERMS AND CONDITIONS AND DECLARATION BY THE CUSTOMER
+
+I/We agree and confirm: (1) To the applicable schedule of charges, fees, commissions including the key facts informed to me by HDFC Bank Ltd.
+(Bank) and as more particularly mentioned in the “Schedule of Charges” of this Application. (2) That the bank's representative/ staff will not receive
+any payment in cash/ bearer cheque or kind along with or in connection with this loan application from me/ us. (3) That no discount or free gift or any
+other commitment whatsoever is given to me/ us by the Bank or any of its authorized representative(s) other than what is not documented in this
+application form the Terms and Conditions/ Agreement pursuant to the Loan. (4) The Bank shall not process incomplete/ defective application form,
+for which if any loss or delay is caused to me/ us, I/We will not hold the Bank liable for such loss or delay. (5) That Loan processing and disbursement
+will take at least 7 working days post submission of all requisite documents and information as may be required by the Bank as per Bank's criteria. (6)
+That submission of loan application to your bank does not imply automatic approval by the Bank and the Bank will decide the quantum of the loan at
+its sole and absolute discretion. The Bank in its sole and absolute discretion may either sanction or reject the application for granting the loan. Incase
+of rejection, the Bank shall not be required to give any reason. (7) That the Bank shall have the right to make disclosure of any information relating to
+me/us including personal information, details in relation to Loan, defaults, security, etc to the Credit Information Bureau of India (CIBIL) and/or any
+other governmental/regulatory/statutory or private agency/entity, credit bureau, RBI, the Bank's other branches/ subsidiaries / affiliates / rating
+agencies, service providers, other banks / financial institutions, any third parties, any assignes/potential assignees or transferees, who may need,
+process and publish the information in such manner and through such medium as it may be deemed necessary by the publisher/ Bank/ RBI, including
+publishing the name as part of willful defaulter's list from time to time, as also use for KYC information verification, credit risk analysis, or for other
+related purposes. (8) The Bank reserves its right to reject the loan application and retain the loan application form along with the photograph,
+information and documents. (9) That I/ We shall furnish any additional documents as and when required by the Bank. (10) That I/ We have not taken
+any loan from any other bank/ finance company unless specifically declared by me/ us. (11) That there is no impediment or restriction (whether legal
+or judicial) against me/ us and/or our asset filed/ reported by any other bank/ financer/ bank. (12) That the funds shall be used for the purpose for
+which loan has been applied and will not be used for speculative or antisocial purpose. (13) I/ We do not have any existing customer ID or customer ID
+apart from the one mentioned above, and incase found otherwise, Bank reserves the right to consolidate the customer IDs under a single customer ID
+as it may decide, without any prior notice to me/ us. (14) That the information furnished by me/ us above is true and accurate.
+I.
+Other declarations : I/ We : (1) shall advise the HDFC Bank Ltd. (Bank) in writing of any change in my/ our residential or employment address. (2) hereby
+authorize and give consent to the Bank to disclose, without notice to me/ us, information furnished by me/ us in the application form(s)/ related documents
+executed/ to be executed in relation to the facilities to be availed by me/ us from the Bank, to the Bank's other branches/ subsidiaries/ affiliates/ Credit
+Bureaus/ Rating Agencies/ Service Providers, banks/ financial institutions, governmental/ regulatory authorities or third parties for information verification,
+credit risk analysis, or for other related purposes that the Bank may deem fit. I/ We waive the privilege of privacy and privity of contract. (3) shall credit all
+sums received by you in either or all the names of this account. (4) hereby confirm having received, read and understood the terms and conditions applicable
+to this loan including the application form and the Terms and Conditions/ Agreement and accept the same. (5) hereby unconditionally, agree that these terms
+may be changed by the Bank at any time and I / We will be bound by the amended terms and conditions. (6) Confirm that I/ We are citizen of India.
+
+I / We also confirm that the executive collecting my loan Application / Document has informed me / us : (1) that services tax is applicable and will be
+charged in connection with the loan. (2) all the commission/s (in the form of up front and trail commissions) payable to HDFC Bank for the insurance policy
+recommended to me/us. (3) In the case of loan cancellation, the applicable pro-rata interest charges on any outstanding loan amount will have to be borne
+by me/us. I understand that Processing Fee, Stamp Duty are non-refundable charges and would not be waived/ refunded in case of loan cancellation or
+where the loan has not been disbursed. (4) That all the post-dated cheques are to be issued favouring HDFC Bank Limited A/c <Mention Product Name>
+only. (5) that loan related information like “welcome letter”, “repayment schedule”, “Terms and condition”, “disbursal advice (as applicable to Personal Loan/
+Business Loan)”, will be sent on the e-mail id mentioned by me/ us in this loan application form. (6) that I/ We can log on to HDFC Bank Net Banking
+(www.hdfcbank.com) to view the welcome letter and repayment schedule. I/ We may also request for a physical copy of Welcome Letter and Repayment
+Schedule separately if need be.
+
+J. DO NOT CALL REGISTRY : I understand that in case I do not wish to receive promotional information through telephone calls / email / sms on products and services not currently
+
+Please Paste
+Latest Passport Size
+Photograph
+
+Applicant's/Co-applicant's Signature
+
+Name: ____________________________________ Date:___________________ Place:________________
+_
+
+Page 3
+
+I/We have read and verified the entire contents of the aforesaid Loan Application Form including the information, the Most Important Terms
+and Conditions , the Declarations being Part A to Part J and I/We hereby irrevocably represent, confirm and declare that all the information
+given thereunder are completely true and correct and further agree, acknowledge, accept and confirm the same.
+
+92864/13.02.2014
+
+availed by me, I can register for "Do Not Call" service through the Bank's website www.hdfcbank.com or through PhoneBanking or other channels that the Bank may offer. I agree
+that this service will not apply to receipt of advice and information regarding products and services currently availed by me, to help me in fully realising the benefits of the range of
+financial solutions designed to make my banking relationship value added and more convenient.
+
+CUSTOMER ACKNOWLEDGMENT SECTION
+
+(Customer Copy)
+
+I / we confirm having submitted the following self attested documents (ticked below) along with this loan application form to the Bank representative
+Photograph (signed across)
+
+Proof of Identity
+
+Proof of residence
+
+Latest 2 salary slips
+
+3/6 months bank statement
+
+Last 2 yr ITR with computed income
+
+Proof of continuity of current job
+
+Proof of office
+
+Proof of qualification
+
+Loan Agreement
+
+Signature Verification
+
+Proof of turnover (latest sales/services tax returns)
+
+______Post Dated Cheques
+
+______Security Post-dated cheques
+
+ECS/SI mandate
+
+Loan a/c statement for balance transfer/balance transfer & top up/repayment/retention cases
+
+SCHEDULE OF CHARGES
+
+1) Stamp Duty: At actual as per applicable law. 2) Interest rate of (subject to changes as per Terms and
+Conditions/ Agreement) _________% p.a. (monthly reducing). 3) Processing Charges of Rs. ` ____________.
+3(a). Services tax on PF _______%. 4) Cheque/SI/ECS return charges (without prejudice to the civil and
+criminal rights and remedies of the Bank for the dishonor) : `r618/- Per instance 5) Default Interest / Late
+payment charges : 2% per month from unpaid EMI 6) CIBIL Report Copy Charges: ` 50 per copy 7) Legal,
+repossession and Incidental Charges: At actual 8) Duplicate Amortization/ Repayment Schedule: ` 200/9) Cheque/SI/ECS swapping Charges : ` 500/- 10) Details of Security _______ 11) Taxes at Actuals,
+applicable presently or in future. 12) Date on which annual Outstanding balance statement will be issued: 31st
+May 13) Loan Cancellation Charges: NIL. Interest would be charged for the interim period between date of
+disbursement and date of loan cancellation.
+Note: Visit http://www.hdfcbank.com for detailed fees and charges under the respective loan product.
+Changes in charges from time to time are updated on bank’s website.
+Type of Loan
+Due date of EMI
+Prepayment not
+allowed up to
+payment of
+
+Personal / Business Loan
+Self Employed
+Salaried
+4th / 7th
+
+4th
+
+12 EMI
+
+06 EMI
+
+07-24 Months of EMI Repayment- 4%
+Prepayment Charges 12-24 Months of EMI Repayment- 4%
+[on Principal
+25 to 36 Months of EMI Repayment- 3% 25 to 36 Months of EMI Repayment- 3%
+Outstanding]
+>36 Months of EMI Repayment- 2%
+>36 Months of EMI Repayment- 2%
+Applicable Service Tax will be charged on foreclosure charges
+MOST IMPORTANT TERMS AND CONDITIONS AND DECLARATION BY THE CUSTOMER
+I/We agree and confirm: (1) To the applicable schedule of charges, fees, commissions including the key facts informed to me by HDFC Bank Ltd. (Bank) and as more
+particularly mentioned in the “Schedule of Charges” of this Application. (2) That the bank's representative/ staff will not receive any payment in cash/ bearer cheque or
+kind along with or in connection with this loan application from me/ us. (3) That no discount or free gift or any other commitment whatsoever is given to me/ us by the
+Bank or any of its authorized representative(s) other than what is not documented in this application form the Terms and Conditions/ Agreement pursuant to the Loan.
+(4) The Bank shall not process incomplete/ defective application form, for which if any loss or delay is caused to me/ us, I/We will not hold the Bank liable for such loss or
+delay. (5) That Loan processing and disbursement will take at least 7 working days post submission of all requisite documents and information as may be required by
+the Bank as per Bank's criteria. (6) That submission of loan application to your bank does not imply automatic approval by the Bank and the Bank will decide the
+quantum of the loan at its sole and absolute discretion. The Bank in its sole and absolute discretion may either sanction or reject the application for granting the loan.
+Incase of rejection, the Bank shall not be required to give any reason. (7) That the Bank shall have the right to make disclosure of any information relating to me/us
+including personal information, details in relation to Loan, defaults, security, etc to the Credit Information Bureau of India (CIBIL) and/or any other
+governmental/regulatory/statutory or private agency/entity, credit bureau, RBI, the Bank's other branches/ subsidiaries / affiliates / rating agencies, service providers,
+other banks / financial institutions, any third parties, any assignes/potential assignees or transferees, who may need, process and publish the information in such
+manner and through such medium as it may be deemed necessary by the publisher/ Bank/ RBI, including publishing the name as part of willful defaulter's list from time
+to time, as also use for KYC information verification, credit risk analysis, or for other related purposes. (8) The Bank reserves its right to reject the loan application and
+retain the loan application form along with the photograph, information and documents. (9) That I/ We shall furnish any additional documents as and when required by
+the Bank. (10) That I/ We have not taken any loan from any other bank/ finance company unless specifically declared by me/ us. (11) That there is no impediment or
+restriction (whether legal or judicial) against me/ us and/or our asset filed/ reported by any other bank/ financer/ bank. (12) That the funds shall be used for the purpose
+for which loan has been applied and will not be used for speculative or antisocial purpose. (13) I/ We do not have any existing customer ID or customer ID apart from the
+one mentioned above, and incase found otherwise, Bank reserves the right to consolidate the customer IDs under a single customer ID as it may decide, without any
+prior notice to me/ us. (14) That the information furnished by me/ us above is true and accurate.
+Other declarations : I/ We : (1) shall advise the HDFC Bank Ltd. (Bank) in writing of any change in my/ our residential or employment address. (2) hereby authorize
+and give consent to the Bank to disclose, without notice to me/ us, information furnished by me/ us in the application form(s)/ related documents executed/ to be
+executed in relation to the facilities to be availed by me/ us from the Bank, to the Bank's other branches/ subsidiaries/ affiliates/ Credit Bureaus/ Rating Agencies/
+Service Providers, banks/ financial institutions, governmental/ regulatory authorities or third parties for information verification, credit risk analysis, or for other related
+purposes that the Bank may deem fit. I/ We waive the privilege of privacy and privity of contract. (3) shall credit all sums received by you in either or all the names of this
+account. (4) hereby confirm having received, read and understood the terms and conditions applicable to this loan including the application form and the Terms and
+Conditions/ Agreement and accept the same. (5) hereby unconditionally, agree that these terms may be changed by the Bank at any time and I / We will be bound by the
+amended terms and conditions. (6) Confirm that I/ We are citizen of India.
+I / We also confirm that the executive collecting my loan Application / Document has informed me / us : (1) that services tax is applicable and will be charged in
+connection with the loan. (2) all the commission/s (in the form of up front and trail commissions) payable to HDFC Bank for the insurance policy recommended to me/us.
+(3) In the case of loan cancellation, the applicable pro-rata interest charges on any outstanding loan amount will have to be borne by me/us. I understand that
+Processing Fee, Stamp Duty are non-refundable charges and would not be waived/ refunded in case of loan cancellation or where the loan has not been disbursed. (4)
+That all the post-dated cheques are to be issued favouring HDFC Bank Limited A/c <Mention Product Name> only. (5) that loan related information like “welcome
+letter”, “repayment schedule”, “Terms and condition”, “disbursal advice (as applicable to Personal Loan/ Business Loan)”, will be sent on the e-mail id mentioned by me/
+us in this loan application form. (6) that I/ We can log on to HDFC Bank Net Banking (www.hdfcbank.com) to view the welcome letter and repayment schedule. I/ We
+may also request for a physical copy of Welcome Letter and Repayment Schedule separately if need be.
+
+(Customer Copy)
+
+ACKNOWLEDGEMENT FOR LOAN APPLICATION
+Name of the Applicant__________________________________________________________
+Type of Loan Applied___________________________________________________________
+Branch Code :___________________ Date & Time of Receipts__________________________
+Branch Contact Person Name_________________________ Contact No_________________
+DSA Contact Person Name____________________________ Contact No_________________
+Follow us on
+www.facebook.com/hdfcbank
+www.twitter.com/hdfcbank_offers
+Watch us on
+www.youtube.com/hdfcbank
+
+Signature of Executive / Bank Staff
+
+For more information please visit
+www.hdfcbank.com
+
+CONTACT US
+To get the status of your loan application you can reach us at below Contact Numbers
+State
+Telephone
+State
+Telephone
+Andhra Pradesh
+040-61606161, 9949493333 Madhya Pradesh 0731-6160616, 9893603333
+Assam
+9957193333
+Maharashtra
+022-61606161, 9890603333
+Bihar
+0612-6160 616
+Meghalaya
+99571 93333
+Chandigarh
+0172-6160616
+New Delhi
+011-61606161
+Goa
+9890603333
+Odisha
+99379 03333
+Gujarat
+079-61606161, 9898271111 Punjab
+0175-5001722, 98153 31111
+Haryana
+011-61606161, 9996243333 Rajasthan
+9875003333
+Himachal Pradesh 1800180 4333
+Sikkim
+98310 73333
+Jammu & Kashmir 9890603333
+Tamil Nadu
+044-61606161, 9840673333
+Jharkhand
+0612-6160616
+Uttar Pradesh
+0522-6160616, 0522-4003333
+Karnataka
+080-61606161, 9945863333 Uttarakhand
+0135-3245413
+Kerala
+0484-6160616
+West Bengal
+033-61606161, 98310 73333
+
+You may also write to us at : loansupport@hdfcbank.com
+
+Important Information for Customer - Form No. IL
+Period of Coverage: ______________months. Premium Amount: r ______________________
+1) Anti-Rebating Warning : As per Section 41 of the Insurance Act 1938, as amended, the practice of rebating is prohibited, as follows: No person shall allow or offer to allow, either directly or indirectly, as an inducement to any person to
+take out or renew or continue an insurance policy in respect of any kind of risk relating to lives or property in India, any rebate of the whole or part of the commission payable or any rebate of the premium show on the policy, nor shall any
+person taking out or renewing or continuing a policy accept any rebate, except such rebate as may be allowed in accordance with he published prospectus or tables of the insurer. Violations of Section 41 of the insurance Act 1938, as
+amended, shall be punishable with a fine which may extend to five hundred (500) Rupees.
+2) Insurance is the subject matter of the solicitation.
+3) For any loss reported under the Section of Credit Shield Cover of Sarv Suraksha Plus / Star, the loss will be paid by HDFC ERGO General Insurance Co Ltd to HDFC Bank Limited. Under "Assignee Clause”
+4) On receipt of request from HDFC Bank Limited, for cancellation of insurance, due to for example, cancellation of loan, forfeiture of loan, payment default etc., and also policy cancellation by the insurer, HDFC ERGO General Insurance
+Co Ltd to cancel the policy and pro-rata premium for the remaining tenure of the loan would be refunded to HDFC Bank Limited and the insurance would cease to exist.
+
