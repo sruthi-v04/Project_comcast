@@ -1,0 +1,762 @@
+Application For
+Personal Power Loan
+
+Serial No.
+
+Date
+If existing AXIS Bank Customer, Please Provide Customer ID
+Saving Account
+Loan Type
+
+Y
+
+N
+
+Account no.
+
+Pre Approved
+
+CLEAR
+
+MAXIMA
+
+Topup (With closure of existing loan)
+
+ULTIMA
+
+Parallel (In addition to existing loan)
+
+External BT Topup / Ext BT Loan A/c no:
+Personal Details
+
+*Name
+
+Prefix
+
+First Name
+
+Middle Name
+
+Last Name
+
+Maiden name
+
+Prefix
+
+First Name
+
+Middle Name
+
+Last Name
+
+*Father’s name
+
+Prefix
+
+First Name
+
+Middle Name
+
+Last Name
+
+*Mother’s name
+
+Prefix
+
+First Name
+
+Middle Name
+
+Last Name
+
+(Same as ID proof)
+(If any*)
+
+CKYC No.
+
+*Nationality
+
+*Residence Address
+(Present Address)
+
+Landmark
+
+City
+
+State
+
+Country
+
+*Phone Number
+
+Pin Code
+
+*Mobile Number
+
+*Mailing Address
+
+*E-mail ID
+
+*Email statement
+
+*No. of Years In the current residence
+*Residence Ownership
+
+Years
+
+Self Owned
+
+Months
+
+Parental
+
+*No. of Years In the city
+
+Owned-Mortgaged
+
+Years
+
+Co. Provided
+
+Months
+
+Paying Guest
+
+Rental
+
+Relative
+
+*Resident Address
+(Permanent Address)
+
+Landmark
+
+City
+
+State
+
+Country
+
+*Phone Number
+
+Pincode
+
+*Mobile Number
+
+*Residence Ownership
+
+Self Owned
+
+*Community
+
+Hindu
+
+*Category
+
+General
+
+*Gender
+
+Male
+
+Muslim
+
+Parental
+
+Owned-Mortgaged
+
+Buddhist
+
+Christians
+
+Other Backward Castes (OBC)
+Female
+
+Third Gender
+
+*Date of Birth
+
+*Mailing Address
+
+*Status
+
+Sikh
+
+Rental
+
+Zoroastrian
+
+Schedule Castes
+Res
+
+Parsi
+
+Schedule Tribes
+
+NRI
+
+PIO
+
+*PAN
+
+Others
+
+Specify
+
+Others
+
+Specify
+
+OCI
+
+Foreign National
+
+*Aadhaar No.
+Date of Exp. for Passport/Driving License
+
+Passport No. /Voter ID/Driving License
+*Marital Status
+
+Married
+
+Single
+
+Others
+
+*Education
+
+Matriculate
+
+Undergraduate
+
+Graduate
+
+Postgraduate
+
+Employment Nature
+
+Salaried
+
+Self Employed
+
+Consultant
+
+Designation
+
+For Police Defense Employees
+
+Relative
+
+Jain
+
+*No. of Dependents
+
+*Person with Disability Y N
+
+Professional
+
+Others
+Department
+
+Belt No. __________________ PIS no. / Employee no. __________________ Rank _______________ Regiment/Unit Details ____________
+
+Name of Employer
+Nature of Organization
+
+Govt./PSU
+
+Period In Current Employment/Business
+
+Public Ltd.
+
+Pvt. Ltd.
+
+MNC
+
+Partnership
+
+Months Total Employment Period
+
+Years
+
+Properietorship
+Years
+
+Others _________________
+
+Months Employee ID
+
+Office Address
+(Permanent Address)
+
+Landmark
+State
+Phone Number
+
+City
+Country
+
+Extn
+
+Pincode
+Mailing Address
+
+E-mail ID (Office)
+
+*Email statement
+
+VPA/UPI ID
+1
+
+Proposed Loan Details
+
+Terms (Months)
+
+Amount (`)
+
+P. Fee: @____________ % ROI: @____________ %
+
+Repayment Mode
+
+PDC
+
+NACH
+
+SI
+
+Financial Details
+
+Net Monthly Income (`) ___________________________
+Bank Details
+
+Account I
+
+Account II
+
+Bank Name
+A/c Number
+Type of Account
+Loan Details
+
+Financier Name
+
+Loan Amount
+
+Type of Loan
+
+EMI
+
+Topup / BT
+
+Loan I
+Loan II
+Loan III
+Loan IV
+Loan V
+Loan VI
+Purpose of Loan
+Education
+
+Home Repair
+
+Marriage
+
+Travel
+
+Consumer Durables
+
+Medical
+
+Personal
+
+Others
+
+Reference Details (One Reference has to be a Non-relative/Non-colleague)
+Reference I
+
+Reference II
+
+Name
+Relationship with Applicant/Co-Applicant
+Name
+
+Pin
+State
+
+City
+
+Pin
+Country
+
+State
+
+City
+Country
+
+Mobile No./Telephone
+E-mail ID
+Insurance Details
+
+Insurance
+
+Interested
+
+Non Interested
+
+Shall Decide Later
+
+Information on Products and Offerings
+I/We hereby confirm that I/We am/are in favor of receiving communication/information/loan documents/other collaterals from the bank pertaining to the loan account via emails/net
+banking. From time to time, Axis Bank communicates various new products/special features of existing products/ promotional offers which are of significant benefit to its customers.
+I/We agree/ do not agree to share or part with all information/data provided by me and/or pertaining to me including personal and business information with the Bank's other
+department or its group companies/other institutions/such other persons as may be necessary/required for the purpose of, including but not limited to processing of my loan
+application, marketing, cross selling of various products and services etc. to me/us, use or process the aforesaid information/data by such person/s or furnishing of the processed
+information/data/products thereof to Bank's other department /its group companies/other Banks/institutions/such other persons as may be necessary, and to receive
+information/services for marketing purpose through telephone / mobile / SMS / Emails by the Bank / its Agents/ Service providers as per agreement with the Bank and I/We shall not
+hold the Bank liable in connection with the use of such information or otherwise. Yes
+No
+
+Customer Declaration
+I/We declare that the particulars and information given in the application form are true, correct, complete and up to date in all respects and I/we have not withheld any information.
+I/We confirm that I/We have no insolvency proceeding indicated against me/us nor have I/We ever been abjudicated insolvent. I/We have read the application form and am/are aware
+of all terms and conditions of availing finance from Axis Bank. I/We authorize Axis Bank to make reference and inquiries relating to information in this application which the bank
+considers necessary. I/We authorize the bank to exchange, part/share with all information relating to my/our loan details and repayment history to other banks/financial institutions
+etc. as may be required and shall not hold the bank liable for use of this information. I/We undertake to inform the bank regarding change in my residence/employment and to provide
+any further information that the bank may require. I/We agree that my/our loan shall be governed by the rules of the Bank which may be in force from time to time. I/We understand
+that the Bank has the right to reject my/our application without providing any reason thereof. The borrower(s)/guarantor(s) agree(s) to have given his/their express consent to the Bank
+to disclose all information and data furnished by them to Credit information companies ( CIC's ) or any other credit bureau permitted to operate in India. The borrower(s)/guarantor(s)
+further agree(s) that they shall execute such additional documents as may be necessary for the purpose. I/We confirm that I/We have received a copy of the "Code of Bank's
+commitment to Customers". I/We have been explained the content of the same and also understand that it is available on-line at the Bank's website, "www.axisbank.com".
+I hereby declare that the details furnished above are true and correct to the best of my/our knowledge and belief and I undertake to inform you of any changes therein, immediately. In
+case any of the above information is found to be false or untrue or misleading or misrepresenting, I/We am/are aware that I/we may be held liable for it. My personal / KYC details may
+be shared with Central KYC Registry. I hereby consent to receiving information from Central KYC Registry through SMS/Email on the above registered number/email address.
+I/We undertake that the proceeds of this facility shall not be used for investment in the capital market or purchase of gold in any form including primary gold, gold bullion, gold
+jewellery, gold coins, units of gold Exchange Traded Funds (ETF) and units of gold Mutual Funds & Small saving instruments. I/We also confirm that I have been explained the following:
+1.
+
+Axis Bank will convey its decision within 30 working days from the date of receipt of the application provided the application is complete in all respects and is submitted along
+with all the documents as per 'check list' provided in the application for loan and/or any additional documents as may be required by the bank for proper appraisal of the
+application. The computation of 30 days shall starts from the day on which all documents required fo ra proper appraisal of the application are provided by the Customer to bank.
+
+2.
+
+The bank may at its sole discretion sanction or decline the application. The bank shall convey, the reasons, which in its opinion after due consideration, have led to rejection of the
+application.
+
+3.
+
+The Bank will decide and assign the loan amount and no commitment has been given to us for the same.
+
+4.
+
+The DSA/DST or any other executive (has not collected any commission/brokerage or any other fee by way of cash or cheque or any other mode.
+
+5.
+
+Axis Bank Ltd. reserves the right to retain the photographs and documents submitted with this application and will not return the same to the applicant.
+
+2
+
+6.
+
+As per RBI guidelines, classification of accounts as NPA is done Borrower wise and not Facility wise and hence, it may be noted that in case of
+non-payment of dues by the customer in case of any facility availed from the Bank and consequently the account is to be classified as NPA, all
+other loan accounts of the Borrower/Card Holder, with the Bank also shall be classified as NPA as per the guidelines issued by RBI and it shall
+entitle the Bank to recall all such loans/facilities availed by the Bank, irrespective of the regular repayment in such accounts.
+
+7.
+
+I/we authorize Axis Bank to Verify/Authenticate my/our KYC OVDs/Aadhaar number/loan documents during processing my/our loan
+application through third party agencies via digitally/physically for legitimate business purpose.
+
+8.
+
+I/We authorize Axis Bank to verify and authenticate my/our Aadhaar number during processing my/our application for legitimate Business
+purposes. I/We further authorise the Bank to share my Aadhaar related details/information with regulatory / statutory bodies as and when
+required.
+
+9.
+
+We understand the Loan amount/ Rate Of Interest / Fees and charges mentioned in the application are only indicative and the terms of the
+Loan will be guided by the terms of the Personal Loan Agreement/ sanction letter accepted by me/us prior to disbursement.
+
+Applicant
+Please sign across
+the photograph
+
+Signature
+
+@
+Customer Declaration
+Customer declaration in respect of relationship with director/Senior officer of the bank/Any other Bank
+1. I am a Director of Axis Bank
+Yes
+No
+2 . I am a Director of any other Bank*
+Yes
+No If Yes, Name of the Bank
+3. I/We am/are a relative of director of Axis Bank/other Bank*/Senior Officer of Axis Bank
+Yes
+No
+In the event that the Applicant/ Co-applicant is related to any of director of Axis Bank / director of other bank / senior officer of Axis Bank:
+I/We declare (s) that we I/We am/are related to the director(s) and or Senior Officer(s) of Axis Bank or any other bank specified hereto
+Sr. No.
+
+Designation
+
+Name of the Director(s) / Senior Officer(s)
+
+Relationship
+
+Signature of the Applicant
+
+@
+II the above declaration Is found to be false then the Bank will be entitled to revoke and/or recall the credit facility.
+*GSTIN Details
+Whether registered under GST
+
+Y
+
+*GST Registration
+
+Single
+
+*Special Economic Zone
+
+Y
+
+N
+
+N
+
+(If yes, following details
+are mandatory)
+
+*Multiple
+
+GST Exemption
+
+Y
+
+Exemption Reason (If Yes)
+
+N
+
+*(Please fill GST Annexure for multiple GST Registration)
+
+GSTIN ( Default)
+
+Address registered for GSTIN (Note : Overseas address can not be GST registered address)
+Same as communication/ Local address given in the account
+
+Same as Permanent address given in the account
+
+As given below
+
+*Line 1
+*Line 2
+
+Landmark
+
+Country
+
+*State
+
+#
+
+#
+Acknowledgment for Receipt of Application Form
+Date
+
+To, _______________________________________________________________________
+
+Axis Bank has received your application for a Personal Loan of ` _____________________
+1. Axis Bank will Convey its decision within 30 working days from the date of receipt of the application provided the application is complete in all respects and
+le submitted along with all the documents as per 'check list' provided in the application for loan and/or any additional documents as may be required by the
+bank for proper appraisal of the applicatlon. The computation of 30 days shall starts from the day on which all documents required for a proper appraisal of
+the application are, provided by the Customer to bank.
+
+For any queries clarifications, please contact landline number
+Sales Manager
+DSA
+Sales Executive
+E-mail ID
+3
+
+Serial No.
+
+RA/PPL/App. Form/ Jan 20/Version 1.0
+
+*Pincode
+
+*City
+
+Sourcing Details (For official use only)
+ASC Name
+Channel
+
+DSA
+
+Source Code
+(For digital only)
+
+Open Market
+
+SMS
+
+E-mailer
+
+Phone Banking
+
+Branch Channel
+Mobile
+
+Direct
+
+CSG Activity
+
+Internet Banking
+
+Corporate Banner
+
+Digital
+
+Website
+
+ATM
+
+Vistaar
+
+Vistaar+
+
+Aggregator
+
+Referrer Branch Name
+
+Referrer Branch Sol ID
+
+CRM ID
+
+ASM Employee Nos.
+
+TL/DSA Name
+
+TL/DSA Code
+
+DME Name
+
+DME Code
+
+Customer Segment
+Customer segment
+
+Class IV
+
+Signature of Sourcing Agent
+
+Blue Collar
+
+@
+
+In person verification carried out by (For CKYC entry)
+Document Received
+
+Self-Certified
+
+True Copies
+
+KYC OVD:
+
+Digitally Verified
+
+Manually Verified
+
+Notary
+
+Identity Verification Done
+Digital Verification Ref no. ……………………………………………………..
+
+Axis Bank Staff
+
+Employee ID
+
+Designation
+
+Signature of Sourcing Agent
+
+Employee Branch
+
+@
+
+For System data entry (Branch scanning)
+Axis Bank RM/ SM
+
+Employee ID
+
+Designation
+Employee Branch
+
+Signature of Sourcing Agent
+
+@
+(Filling of all the fields is mandatory and No. field should be left Blank. User should either provide details or should mention NA to avoid any data fudging in blank spaces)
+
+#
+
+#
+DETAILS OF CHARGES
+Processing Fee Charges
+Rate of Interest
+Penal Interest
+Instruction/Instrument Return charges
+Cheque/Instrument Swap charges
+Duplicate Statement issuance charges
+Duplicate No Dues Certificate/NOC
+
+__________ % of the loan amount +GST (As applicable)
+@ ____________________ % per annum
+@ 24% per annum, 2% per month
+` 500/- + GST (As applicable) per instance
+` 500/- + GST (As applicable) per instance
+` 250/- + GST (As applicable) per instance
+` 500 per instance
+
+Duplicate Amortization schedule issuance charges
+` 250/-+ GST (As applicable) per instance
+Duplicate Interest Certificate (Provisional/Actual) issuance charges ` 250/- + GST (As applicable) per instance
+Charges on customer initiated requests for copies of documents ` 250/- + GST (As applicable) per document set
+Credit Information Companies (CIC's) Report Issuance Charges ` 50/- + GST (As applicable) per document set
+Stamp Duty Charges
+As per State Stamp Act
+Foreclosure/Part prepayment charges
+
+<=12 mths
+5%
+
+13-24 mths
+4%
+
+25-36 mths
+3%
+
+> 36 mths
+2%
+
+* Plus applicable Govt Taxes (Currently GST)
+Foreclosure Charges shall be charged on outstanding.
+Part Pre-Payment Charges shall be charged on the amount of part pre-payment
+
+*Goods and Services tax {GST) will be charged extra as per the applicable rates, on all the charges and fees (wherever GST is applicable)"
+DOCUMENTATION#
+• Application form • KYC document (Proof of Identity, Proof of Address) • Income Documant ( latestt 2 Salary Slip)
+• Bank Statement (last three month bank statement) • For NACH - 4 Security PDCs and for SI as repayment mode -1 Security PDCs
+• For PDC Repayment mode -PDCs aquivalent to the tenure of loan to be provided •
+#Axis Bank Ltd. may request for additional documents other than those requested above in connection with the applicant.
+
+4
+
+@
+
+For Axis Bank Ltd.,
+Authorised Official
+
